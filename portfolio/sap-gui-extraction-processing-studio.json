@@ -1,0 +1,18 @@
+﻿{
+    "section":  "excelvba",
+    "category":  "vba-macros",
+    "n":  2,
+    "title":  "SAP GUI Extraction \u0026 Processing Studio",
+    "desc":  "A VBA tool that connects to SAP GUI scripting, runs transactions, enters parameters, exports raw data, cleans it with Power Query or VBA, and loads structured tables with audit logs and exception reporting.",
+    "code":  "https://github.com/Naadir-Dev-Portfolio/SAP-GUI-Extraction-Processing-Studio/blob/main/README.md",
+    "details":  "https://github.com/Naadir-Dev-Portfolio/SAP-GUI-Extraction-Processing-Studio/blob/main/README.md",
+    "tags":  [
+                 "Excel",
+                 "VBA",
+                 "SAP GUI Scripting",
+                 "Power Query",
+                 "ETL",
+                 "Automation"
+             ]
+}
+
